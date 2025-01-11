@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Quality Assurance | Android Development | Web Development Enthusiast
 
 profile:
   align: right
@@ -18,8 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there,
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a passionate and motivated individual with a strong interest in Quality Assurance and Mobile Development. Throughout my academic journey, I have actively pursued opportunities to develop my skills and deepen my understanding in these areas.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my time at Bangkit Academy 2024 by Google, GoTo, Tokopedia, and Traveloka, I focused on the Android Learning Path, where I gained hands-on experience in mobile development using Kotlin. This experience strengthened my technical skills and fueled my passion for creating high-quality mobile applications.
+
+Additionally, I had the opportunity to intern at PT Jababeka Tbk as an IT Quality Assurance through the Kampus Merdeka program. This role allowed me to apply my analytical skills and attention to detail in a professional setting, where I was responsible for ensuring the quality of web-based accounting and finance systems.
+
+My career aspiration is to become a highly skilled Quality Assurance professional, contributing to the development of reliable and user-friendly software products. I am eager to continue learning and growing in this field, leveraging my experience and knowledge to make a meaningful impact.
