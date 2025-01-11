@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "My works, projects &amp; contributions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/Portfolio/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -442,8 +442,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-qa-practice-project",
+          title: 'QA-Practice-Project',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
