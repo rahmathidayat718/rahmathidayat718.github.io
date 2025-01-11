@@ -18,12 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there,
-
-I am a passionate and motivated individual with a strong interest in Quality Assurance and Mobile Development. Throughout my academic journey, I have actively pursued opportunities to develop my skills and deepen my understanding in these areas.
-
-During my time at Bangkit Academy 2024 by Google, GoTo, Tokopedia, and Traveloka, I focused on the Android Learning Path, where I gained hands-on experience in mobile development using Kotlin. This experience strengthened my technical skills and fueled my passion for creating high-quality mobile applications.
-
-Additionally, I had the opportunity to intern at PT Jababeka Tbk as an IT Quality Assurance through the Kampus Merdeka program. This role allowed me to apply my analytical skills and attention to detail in a professional setting, where I was responsible for ensuring the quality of web-based accounting and finance systems.
-
-My career aspiration is to become a highly skilled Quality Assurance professional, contributing to the development of reliable and user-friendly software products. I am eager to continue learning and growing in this field, leveraging my experience and knowledge to make a meaningful impact.
+Hi, I’m Rahmat Hidayat, a passionate Quality Assurance professional dedicated to delivering high-quality software solutions. With experience in web-based system testing and a strong eye for detail, I aim to ensure that every product meets the highest standards of reliability and performance. I'm driven by a desire to continuously learn and grow, making a positive impact in the world of software development.
